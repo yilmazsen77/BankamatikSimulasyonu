@@ -1,0 +1,2 @@
+# BankamatikSimulasyonu
+Bankamatik simülasyonu.
